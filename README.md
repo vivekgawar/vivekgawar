@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekgawar" alt="vivekgawar" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, ReactJS, Blockchain**
+- 🌱 I’m currently learning **ReactJS, Git**
 
 - 📫 How to reach me **vivekgaver2016@gmail.com**
 
