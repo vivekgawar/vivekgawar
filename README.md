@@ -2,7 +2,7 @@
 <img src="https://github.com/vivekgawar/vivekgawar/blob/main/newGIF.gif" alt="Your Image" style="width: 100vw; height: 40vh;">
 
 ---
-<h2>👨🏻‍💻 &nbsp;About me</h2>
+# 👨🏻‍💻 &nbsp;About me
 
 ```yaml
 name: Vivek Gawar
