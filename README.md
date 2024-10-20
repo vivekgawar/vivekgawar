@@ -2,7 +2,7 @@
 <img src="https://github.com/vivekgawar/vivekgawar/blob/main/newGIF.gif" alt="Your Image" style="width: 100vw; height: 40vh;">
 
 ---
-# 👨🏻‍💻 &nbsp;About me
+## 👨🏻‍💻 &nbsp;About me
 
 ```yaml
 name: Vivek Gawar
@@ -29,7 +29,7 @@ technical_background:
     ""
   ]
   
-currently_learning: [ "Backend Development","DSA"]
+currently_learning: ["Backend Development","DSA"]
 hobbies: ["Gaming", "Music", "Freelancing", "Art"]
 ```
 ---
