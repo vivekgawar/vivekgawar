@@ -1,4 +1,5 @@
-<h1 align="center">𝚅𝚒𝚟𝚎𝚔 𝙶𝚊𝚠𝚊𝚛'𝚜 𝙶𝚒𝚝𝚑𝚞𝚋</h1>
+<h1 align="center">█░█ █ █░█ █▀▀ █▄▀   █▀▀ ▄▀█ █░█░█ ▄▀█ █▀█
+▀▄▀ █ ▀▄▀ ██▄ █░█   █▄█ █▀█ ▀▄▀▄▀ █▀█ █▀▄</h1>
 <h3 align="center">Passionate about Web & Game Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekgawar&label=Profile%20views&color=0e75b6&style=flat" alt="vivekgawar" /> </p>
