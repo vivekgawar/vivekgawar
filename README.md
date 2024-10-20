@@ -37,7 +37,6 @@ hobbies: ["Gaming", "Music", "Freelancing", "Art"]
 # 📊 Github Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekgawar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
 </br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekgawar&show_icons=true&locale=en&layout=compact" alt="vivekgawar" /></p>
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=vivekgawar&row=1&column=3)
 
 <h3 align="left">Connect with me:</h3>
