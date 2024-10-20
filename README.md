@@ -1,7 +1,9 @@
 <h1 align="center">Vivek Gawar's Github</h1>
 <img src="https://github.com/vivekgawar/vivekgawar/blob/main/newGIF.gif" alt="Your Image" style="width: 100vw; height: 40vh;">
 
-<h3 align="center">Passionate about Web & Game Development</h3>
+# 💫 About Me:
+👋 Hi, I’m Vivek Gawar <br>- 👀 I’m interested in Web Development, Game Development, Web Development, Machine Learning, Deep Learning and Data Science.<br>- 📫 Mail me at vivekgaver2016@gmail.com
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekgawar&label=Profile%20views&color=0e75b6&style=flat" alt="vivekgawar" /> </p>
 
