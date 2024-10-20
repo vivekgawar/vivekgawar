@@ -1,6 +1,6 @@
 <img src="https://github.com/vivekgawar/vivekgawar/blob/main/newGif2.gif" alt="Your Image" style="width: 100vw; height: 40vh;">
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vivekg._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-gawar-20b284256) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/vivekxii) 
 
 # 💻 Tech Stack
