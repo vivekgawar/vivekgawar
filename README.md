@@ -1,6 +1,7 @@
 <h1 align="center">Vivek Gawar's Github</h1>
 <img src="https://github.com/vivekgawar/vivekgawar/blob/main/newGIF.gif" alt="Your Image" style="width: 100vw; height: 40vh;">
 
+---
 <h2>👨🏻‍💻 &nbsp;About me</h2>
 ```yaml
 name: Vivek Gawar
@@ -29,7 +30,8 @@ technical_background:
   
 currently_learning: [ "Backend Development","DSA"]
 hobbies: ["Gaming", "Music", "Freelancing", "Art"]
-```  
+```
+---
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekgawar&label=Profile%20views&color=0e75b6&style=flat" alt="vivekgawar" /> </p>
