@@ -1,4 +1,3 @@
-<h1 align="center">Vivek Gawar's Github</h1>
 <img src="https://github.com/vivekgawar/vivekgawar/blob/main/newGIF.gif" alt="Your Image" style="width: 100vw; height: 40vh;">
 
 ---
