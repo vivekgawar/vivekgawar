@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekgawar" alt="vivekgawar" /></a> </p>
 
-![](https://github-readme-stats.vercel.app/api?username=vivekgawar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+# Github Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekgawar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 - 🌱 I’m currently learning **ReactJS, MongoDB**
 
