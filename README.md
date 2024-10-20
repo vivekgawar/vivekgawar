@@ -3,6 +3,7 @@
 
 ---
 <h2>👨🏻‍💻 &nbsp;About me</h2>
+
 ```yaml
 name: Vivek Gawar
 located_in: New Delhi, India
@@ -32,7 +33,6 @@ currently_learning: [ "Backend Development","DSA"]
 hobbies: ["Gaming", "Music", "Freelancing", "Art"]
 ```
 ---
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekgawar&label=Profile%20views&color=0e75b6&style=flat" alt="vivekgawar" /> </p>
 
