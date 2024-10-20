@@ -1,16 +1,12 @@
-<h1 align="center">Hi! I'm Vivek Gawar</h1>
+<h1 align="center">𝚅𝚒𝚟𝚎𝚔 𝙶𝚊𝚠𝚊𝚛'𝚜 𝙶𝚒𝚝𝚑𝚞𝚋</h1>
 <h3 align="center">Passionate about Web & Game Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekgawar&label=Profile%20views&color=0e75b6&style=flat" alt="vivekgawar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekgawar" alt="vivekgawar" /></a> </p>
 
-# Github Stats
+# 📊 Github Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekgawar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-- 🌱 I’m currently learning **ReactJS, MongoDB**
-
-- 📫 How to reach me **vivekgaver2016@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
