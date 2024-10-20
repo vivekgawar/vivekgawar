@@ -1,8 +1,35 @@
 <h1 align="center">Vivek Gawar's Github</h1>
 <img src="https://github.com/vivekgawar/vivekgawar/blob/main/newGIF.gif" alt="Your Image" style="width: 100vw; height: 40vh;">
 
-# 💫 About Me:
-👋 Hi, I’m Vivek Gawar <br>- 👀 I’m interested in Web Development, Game Development, Web Development, Machine Learning, Deep Learning and Data Science.<br>- 📫 Mail me at vivekgaver2016@gmail.com
+<h2>👨🏻‍💻 &nbsp;About me</h2>
+```yaml
+name: Vivek Gawar
+located_in: New Delhi, India
+education:
+  [
+    "Bachelor's in Automation and Robotics",
+  ]
+
+fields_of_interests:
+  [
+    "Web Development",
+    "3D Rendering",
+    "Machine Learning",
+    "Block Chain",
+    "Game Development",
+    "Video Editing",
+  ]
+technical_background:
+  [
+    "Python Developer",
+    "PCB Designing Intern",
+    "Video Editing Freelancer"
+    ""
+  ]
+  
+currently_learning: [ "Backend Development","DSA"]
+hobbies: ["Gaming", "Music", "Freelancing", "Art"]
+```  
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekgawar&label=Profile%20views&color=0e75b6&style=flat" alt="vivekgawar" /> </p>
