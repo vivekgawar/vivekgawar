@@ -39,7 +39,7 @@ technical_background:
     ""
   ]
   
-currently_learning: ["Backend Development","DSA"]
+currently_learning: ["Backend Development","LUA"]
 hobbies: ["Gaming", "Music", "Freelancing", "Art"]
 ```
 ---
