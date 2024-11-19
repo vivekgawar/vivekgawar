@@ -42,7 +42,7 @@ technical_background:
     ""
   ]
   
-currently_learning: ["Backend Development","LUA"]
+currently_learning: ["Three JS","LUA"]
 hobbies: ["Gaming", "Music", "Freelancing", "Art"]
 ```
 ---
